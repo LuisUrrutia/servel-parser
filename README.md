@@ -2,6 +2,8 @@
 
 Jython script to extract the information of Chilean citizens qualified to vote according to PDFs provided by Servel
 
+![Servel PDF](https://raw.githubusercontent.com/LuisUrrutia/servel-parser/master/screenshot/screenshot.png "Extracting info from PDF")
+
 ## Getting Started
 
 This project is intended to show how we can easily extract sensitive information from potential chilean voters through PDFs provided by Servel (Chilean Electoral Service).
@@ -15,7 +17,7 @@ Jython 2.7.1
 Apache PDFBox
 ```
 
-### Installing
+### Usage
 
 If you have Jython installed and the Servel PDFs downloaded, you can run:
 
